@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+yfinance
+requests
+torch
+transformers
+tensorflow
+keras
+matplotlib
